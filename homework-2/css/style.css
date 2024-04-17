@@ -271,7 +271,7 @@ ul {
 }
 
 .why-us-section {
-  background-image: url("/images/why-us-background.png");
+  background-image: url("../images/why-us-background.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 88px;
